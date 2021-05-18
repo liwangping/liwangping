@@ -5,7 +5,7 @@ a frontEnd web developer from Shanghai
 
 Stay hungry. Stay foolish.
 
-是个憨憨，喜欢设计与折腾。
+是个憨憨，喜欢设计与折腾，皮。
 
 **Languages and Tools:**  
 
