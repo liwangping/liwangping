@@ -3,8 +3,9 @@ a frontEnd web developer from Shanghai
 
 - 🌱 I’m currently learning PHP
 
-
 Stay hungry. Stay foolish.
+
+是个憨憨，喜欢设计与折腾。
 
 **Languages and Tools:**  
 
